@@ -2,18 +2,34 @@
     - For learning purposes, we recommend to use many different technologies
 
 ## Technology Options
-    - Sprinboot 3
-    - Spring Security 6
-    - Spring Cloud
-    - Eureka
-    - Config
-    - Elasticsearch
-    - Logstash
-    - Kibana
-    - DB
+    - Back-end
+        + Java Sprinboot 3
+        + Rust Axum
+
+    - Front-end
+        + VueJS
+        + React
+        + Angular
+
+    - Security    
+        + Spring Security 6
+        + JWT
+        + OAuth 2
+
+    - Microservices
+        + Spring Cloud
+        + Eureka
+        + Config
+
+    - Logging
+        + Elasticsearch
+        + Logstash
+        + Kibana
+
+    - Database
         + MySQL
         + PostgreSQL
-        + ...
+
 
 ## Design Patterns
     - SAGA
