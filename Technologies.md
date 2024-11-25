@@ -43,9 +43,10 @@
 ## Team Members
     - tienphuckx
     - secretdeveloperisme
-    - 
+    - NguyenVanTu2k2
     - 
 
 ## Tools
-    - Click Up
+    - Click Up: https://app.clickup.com/9018687699/v/b/li/901804357055
+
 
