@@ -1,9 +1,24 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.4">
   <diagram name="Page-1" id="mDTw-JUU2eNcpkhx_1BE">
-    <mxGraphModel>
+    <mxGraphModel dx="701" dy="397" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="z8qBvvBhVoJ2HRJDXGBk-1" value="ECOM - MICROSERVICE - SYSTEM" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;fontColor=#4A7AFF;" vertex="1" parent="1">
+          <mxGeometry x="40" y="8" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="z8qBvvBhVoJ2HRJDXGBk-2" value="Technologies:" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="58" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="z8qBvvBhVoJ2HRJDXGBk-3" value="- Springboot 3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="88" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="z8qBvvBhVoJ2HRJDXGBk-4" value="- Spring Security 6" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="130" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="z8qBvvBhVoJ2HRJDXGBk-8" value="- ..." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="168" width="40" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
