@@ -44,7 +44,9 @@
     - tienphuckx
     - secretdeveloperisme
     - NguyenVanTu2k2
-    - 
+    - quandang08
+    - thanhne
+    
 
 ## Tools
     - Click Up: https://app.clickup.com/9018687699/v/b/li/901804357055
