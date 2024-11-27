@@ -8,6 +8,7 @@
     - Eureka Client
     - MySQL connector
     - JPA
+    - Config client
 ## API:
     - Insert video
     - Get all video
@@ -18,6 +19,7 @@
 ## Depenancies:
     - Eureka Client
     - Cloud LoadBalancer (Spring Cloud Routing)
+    - Config client
 ## API:
     - Load video from Server
 ## Config:
@@ -30,6 +32,9 @@
     - Gateway (SpringCloud Routing)
 
 
-
+# 5. Config Server
+## Control configuration of all microservices here
+    - Config Server (Spring Cloud Config)
+    - Eureka Discovery Client
 
     
