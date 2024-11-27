@@ -9,10 +9,7 @@
     - MySQL connector
     - JPA
     - Config client
-## API:
-    - Insert video
-    - Get all video
-    - Find video path by video ID
+    - Zipkin
 
 
 # 3. Build Streaming Video Service
@@ -20,8 +17,7 @@
     - Eureka Client
     - Cloud LoadBalancer (Spring Cloud Routing)
     - Config client
-## API:
-    - Load video from Server
+    - Zipkin
 ## Config:
     - RestConfig: loadbalance
 
