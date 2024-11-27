@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.9.1">
   <diagram name="Page-1" id="mDTw-JUU2eNcpkhx_1BE">
-    <mxGraphModel dx="2384" dy="869" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3577" dy="1544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -94,10 +94,10 @@
             <mxPoint x="900" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qcad92Z5NVhXukfI2dBg-21" value="Git" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="qcad92Z5NVhXukfI2dBg-21" value="Git" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
           <mxGeometry x="740" y="120" width="110" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="qcad92Z5NVhXukfI2dBg-22" value="Native" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="qcad92Z5NVhXukfI2dBg-22" value="Native" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
           <mxGeometry x="960" y="120" width="110" height="110" as="geometry" />
         </mxCell>
         <mxCell id="qcad92Z5NVhXukfI2dBg-23" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="qcad92Z5NVhXukfI2dBg-22">
@@ -157,7 +157,7 @@
             <mxPoint x="1250" y="990" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qcad92Z5NVhXukfI2dBg-33" value="Log" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="qcad92Z5NVhXukfI2dBg-33" value="Log" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="850" y="1080" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="qcad92Z5NVhXukfI2dBg-34" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="qcad92Z5NVhXukfI2dBg-33">
@@ -166,7 +166,7 @@
             <mxPoint x="650" y="1070" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qcad92Z5NVhXukfI2dBg-35" value="Logstash" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="qcad92Z5NVhXukfI2dBg-35" value="Logstash" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="1">
           <mxGeometry x="1400" y="1030" width="150" height="150" as="geometry" />
         </mxCell>
         <mxCell id="qcad92Z5NVhXukfI2dBg-36" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.007;entryY=0.601;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="qcad92Z5NVhXukfI2dBg-35">
@@ -175,7 +175,7 @@
             <mxPoint x="1020" y="1070" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qcad92Z5NVhXukfI2dBg-37" value="Elastic Search" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qcad92Z5NVhXukfI2dBg-37" value="Elastic Search" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="1">
           <mxGeometry x="1355" y="700" width="240" height="160" as="geometry" />
         </mxCell>
         <mxCell id="qcad92Z5NVhXukfI2dBg-38" value="Kibna" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
